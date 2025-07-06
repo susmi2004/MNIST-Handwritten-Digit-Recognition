@@ -1,1 +1,3 @@
 # MNIST-Handwritten-Digit-Recognition
+Designed and implemented a Convolutional Neural Network (CNN) using TensorFlow/Keras to classify handwritten digits from the MNIST dataset with over 98% accuracy. Preprocessed 28x28 Grayscale images through normalization and reshaping to enhance training efficiency and model performance. 
+Utilized layers such as convolution, Max pooling and fully connected layers to extract spatial features and improve generalization. Applied categorical cross - entropy loss and Adam Optimizer to effectively train the deep learning model over multiple epochs. Evaluated model performance using test accuracy and confusion matrix, demonstrating robust digit classification on unseen data. 
